@@ -88,9 +88,8 @@ html,body{
 
 .caixa_redes_sociais{
     width: 100%;
-    padding: 30px 10px;
     box-sizing: border-box;
-    padding: 4.0rem 1.0rem;
+    padding: 3.0rem 1.0rem;
 }
 
 .caixa_redes_sociais ul{
@@ -98,7 +97,7 @@ html,body{
     flex-direction: column;
     width: 100%;
     line-break: auto;
-    row-gap: 2.0rem;
+    row-gap: 1.5rem;
     list-style: none;
 }
 
@@ -113,6 +112,7 @@ html,body{
     text-decoration-style: none;
     text-decoration: none;
     border-radius: 0.3rem;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1.8rem;
     padding: 0.8rem 0.3rem;
 }
@@ -120,14 +120,6 @@ html,body{
 @media only screen and (min-width: 768px) {
     html, body {
         font-size: 12px;
-    }
-
-    .caixa_perfil {
-    row-gap: 3.5rem;
-    }
-
-    .caixa_principal .caixa_redes_sociais {
-    padding: 4.0rem 1.0rem;
     }
 
     .caixa_principal .caixa_redes_sociais ul li .li:hover{
