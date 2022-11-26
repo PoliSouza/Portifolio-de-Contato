@@ -5,7 +5,7 @@ Captura de tela do resultado final
 
 Desktop
 
-![image](https://user-images.githubusercontent.com/116771153/202870488-db8bd724-495c-4991-a763-cfd15971831f.png)
+![image](https://user-images.githubusercontent.com/116771153/204066432-b86cec30-69e4-4426-b7b0-6fd6fb5d99c4.png)
 
 Mobile
 
